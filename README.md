@@ -108,8 +108,8 @@ Also, thanks to [Sauce Labs](http://saucelabs.com) for sponsoring the developmen
 
 Special Thanks
 --------------------
-- [Middleman](https://github.com/middleman/middleman)
-- [jquery.tocify.js](https://github.com/gfranko/jquery.tocify.js)
-- [middleman-syntax](https://github.com/middleman/middleman-syntax)
-- [middleman-gh-pages](https://github.com/edgecase/middleman-gh-pages)
-- [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
+- Andrea Corvaglia
+- Andrea Cargnelli
+- Leoardo Dal Cin
+- Pietro Popescu 
+- Sevan Soukiassian
